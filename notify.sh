@@ -1,5 +1,6 @@
 #!/bin/bash
 # Push notifications using ntfy.sh
+# See https://ntfy.sh for details
 
 NTFY_SERVER="ntfy.sh" 
 
